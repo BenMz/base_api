@@ -1,8 +1,8 @@
 package controllers
 
 import (
-    "base_api/app"
-    "base_api/models"
+    "github.com/BenMz/base_api/app"
+    "github.com/BenMz/base_api/models"
     beego "github.com/beego/beego/v2/server/web"
     "github.com/astaxie/beego/orm"
     jwt "github.com/dgrijalva/jwt-go"

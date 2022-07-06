@@ -1,7 +1,7 @@
 package routers
 
 import (
-    "base_api/controllers"
+    "github.com/BenMz/base_api/controllers"
     beego "github.com/beego/beego/v2/server/web"
 )
 

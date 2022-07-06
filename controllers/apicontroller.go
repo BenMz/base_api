@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"base_api/app"
+	"github.com/BenMz/base_api/app"
     beego "github.com/beego/beego/v2/server/web"
 )
 
