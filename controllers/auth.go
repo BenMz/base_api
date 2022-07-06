@@ -4,7 +4,7 @@ import (
     "github.com/BenMz/base_api/app"
     "github.com/BenMz/base_api/models"
     beego "github.com/beego/beego/v2/server/web"
-    "github.com/astaxie/beego/orm"
+    "github.com/beego/beego/v2/client/orm"
     jwt "github.com/dgrijalva/jwt-go"
     "time"
     "strconv"
