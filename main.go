@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "base_api/routers"
+	_ "github.com/BenMz/base_api/routers"
 	beego "github.com/beego/beego/v2/server/web"
 )
 
